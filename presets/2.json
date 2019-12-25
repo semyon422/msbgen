@@ -1,0 +1,159 @@
+{
+	"4K": {
+		"speed": 2,
+		"hitPosition": 450,
+		"columnWidth": [
+			64, 64, 64, 64
+		],
+		"key": [
+			"_storyboard/422/4K/key/left.png",
+			"_storyboard/422/4K/key/down.png",
+			"_storyboard/422/4K/key/up.png",
+			"_storyboard/422/4K/key/right.png"
+		],
+		"note": [
+			"_storyboard/422/4K/note/left.png",
+			"_storyboard/422/4K/note/down.png",
+			"_storyboard/422/4K/note/up.png",
+			"_storyboard/422/4K/note/right.png"
+		],
+		"head": [
+			"_storyboard/422/4K/note/left.png",
+			"_storyboard/422/4K/note/down.png",
+			"_storyboard/422/4K/note/up.png",
+			"_storyboard/422/4K/note/right.png"
+		],
+		"tail": [
+			"_storyboard/422/4K/hold/holdTail.png",
+			"_storyboard/422/4K/hold/holdTail.png",
+			"_storyboard/422/4K/hold/holdTail.png",
+			"_storyboard/422/4K/hold/holdTail.png"
+		],
+		"body": [
+			"_storyboard/422/4K/hold/holdBody.png",
+			"_storyboard/422/4K/hold/holdBody.png",
+			"_storyboard/422/4K/hold/holdBody.png",
+			"_storyboard/422/4K/hold/holdBody.png"
+		]
+	},
+	"7K": {
+		"speed": 2,
+		"hitPosition": 450,
+		"columnWidth": [
+			48, 48, 48, 48, 48, 48, 48
+		],
+		"key": [
+			"_storyboard/422/all/key/key-down-0.png",
+			"_storyboard/422/all/key/key-up-0.png",
+			"_storyboard/422/all/key/key-down-0.png",
+			"_storyboard/422/all/key/key-up-0.png",
+			"_storyboard/422/all/key/key-down-0.png",
+			"_storyboard/422/all/key/key-up-0.png",
+			"_storyboard/422/all/key/key-down-0.png"
+		],
+		"note": [
+			"_storyboard/422/all/note/white.png",
+			"_storyboard/422/all/note/green.png",
+			"_storyboard/422/all/note/white.png",
+			"_storyboard/422/all/note/green.png",
+			"_storyboard/422/all/note/white.png",
+			"_storyboard/422/all/note/green.png",
+			"_storyboard/422/all/note/white.png"
+		],
+		"head": [
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png"
+		],
+		"tail": [
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png",
+			"_storyboard/422/all/head/green.png",
+			"_storyboard/422/all/head/white.png"
+		],
+		"body": [
+			"_storyboard/422/all/body/white.png",
+			"_storyboard/422/all/body/green.png",
+			"_storyboard/422/all/body/white.png",
+			"_storyboard/422/all/body/green.png",
+			"_storyboard/422/all/body/white.png",
+			"_storyboard/422/all/body/green.png",
+			"_storyboard/422/all/body/white.png"
+		]
+	}
+},
+"10K": {
+	"speed": 2,
+	"hitPosition": 450,
+	"columnWidth": [
+		48, 48, 48, 48, 48, 48, 48, 48, 48, 48
+	],
+	"key": [
+		"_storyboard/422/all/key/key-down-0.png",
+		"_storyboard/422/all/key/key-up-0.png",
+		"_storyboard/422/all/key/key-down-0.png",
+		"_storyboard/422/all/key/key-up-0.png",
+		"_storyboard/422/all/key/key-down-0.png",
+		"_storyboard/422/all/key/key-down-0.png",
+		"_storyboard/422/all/key/key-up-0.png",
+		"_storyboard/422/all/key/key-down-0.png",
+		"_storyboard/422/all/key/key-up-0.png",
+		"_storyboard/422/all/key/key-down-0.png"
+	],
+	"note": [
+		"_storyboard/422/all/note/white.png",
+		"_storyboard/422/all/note/green.png",
+		"_storyboard/422/all/note/white.png",
+		"_storyboard/422/all/note/green.png",
+		"_storyboard/422/all/note/white.png",
+		"_storyboard/422/all/note/white.png",
+		"_storyboard/422/all/note/green.png",
+		"_storyboard/422/all/note/white.png",
+		"_storyboard/422/all/note/green.png",
+		"_storyboard/422/all/note/white.png"
+	],
+	"head": [
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png"
+	],
+	"tail": [
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png",
+		"_storyboard/422/all/head/green.png",
+		"_storyboard/422/all/head/white.png"
+	],
+	"body": [
+		"_storyboard/422/all/body/white.png",
+		"_storyboard/422/all/body/green.png",
+		"_storyboard/422/all/body/white.png",
+		"_storyboard/422/all/body/green.png",
+		"_storyboard/422/all/body/white.png",
+		"_storyboard/422/all/body/white.png",
+		"_storyboard/422/all/body/green.png",
+		"_storyboard/422/all/body/white.png",
+		"_storyboard/422/all/body/green.png",
+		"_storyboard/422/all/body/white.png"
+	]
+}
+}

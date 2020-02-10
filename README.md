@@ -1,4 +1,7 @@
 # msbgen
+
+After downloading from yandex disk I recomend to replace all files in archive with files in this repository.
+
 Mania storyboard generator  
 
 This is not a cheat program. It just reads some text files and creates others without changing anything in the game code or game files. But this program can be used to violate the rules of the game. Please do not use it to play ranked or loved beatmaps.  

@@ -31,7 +31,7 @@ Replay.parse = function(self, filePath)
 	local temp = io.open("temp.json", "w")
 	temp:write(jsonText)
 	temp:close()
-	error()
+	-- error()
 	
 	self.noteData = {}
 	self.metaData = {}
